@@ -1,0 +1,15 @@
+# System
+.DS_Store
+Thumbs.db
+
+# MATLAB
+*.asv
+*.bak
+*.mdl~
+
+# Java
+*.class
+*.jar
+
+# Javadoc (optional if not committed)
+docs/javadoc/
